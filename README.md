@@ -187,7 +187,7 @@ document.getElementById("loginLogo").src = LOGO_DATA;
 document.getElementById("headerLogo").src = LOGO_DATA;
 
 /* Demo credentials. Change these before real deployment. */
-const ADMIN_USER = "QAFILA TIMES ";
+const ADMIN_USER = "QAFILA TIMES";
 const ADMIN_PASS = "qafila123456789";
 
 const DB_KEY = "qafilaProducts";
